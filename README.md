@@ -1,4 +1,4 @@
 # PythonCourse
 Vilnius Coding School Repository
 
-This is a Python couse file repository, where I'll save all the stuff. Testing this to sync.
+This is a Python couse file repository, where I'll save all the stuff.
